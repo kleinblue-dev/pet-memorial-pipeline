@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# 数据与产出（不入库）
+/src/
+/restored/
+/prepped/
+/clips/
+/segments/
+/work_frames/
+/out/
+/logs/
+/audio/
+*.mp4
